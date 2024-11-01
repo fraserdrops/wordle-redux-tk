@@ -1,3 +1,3 @@
 # Wordle Clone - React/Redux-Toolkit
 
-[Try the demo](https://wordle.fray.dev/)
+[Try the demo](https://wordle.overstated.dev/)
